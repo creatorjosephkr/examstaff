@@ -4,7 +4,7 @@
 
 # 웹어플리케이션 정보
 * 이름: examstaff
-* 주소: examstaff.com
+* 주소: https://examstaff.com
 * 제작자: 김주완 심사위원 jospeh@kakao.com
 * 용도
   * 커피바리스타 2급 실기시험 진행 시간 기록 (준비-조리-정리 단계 시간, 에스프레소 추출 시간)
