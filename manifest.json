@@ -1,0 +1,25 @@
+{
+  "name": "KCBA 커피바리스타2급 실기검정 STAFF",
+  "short_name": "KCBA STAFF",
+  "description": "(사)한국커피바리스타협회 커피바리스타2급 실기검정 시간 안내 웹-애플리케이션",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f1f5f9",
+  "theme_color": "#e2e8f0",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
